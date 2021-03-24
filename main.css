@@ -15,11 +15,11 @@ body{
 
 .text{
     position:absolute;
-    bottom: 15rem;
     font-family: 'Poppins', sans-serif;
     color: white;
     text-align: center;
     line-height: 30px;
+    padding-top: 200px;
 }
 
 .start_button {
